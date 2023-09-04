@@ -11,3 +11,4 @@ The website helps you summarize the articles. Moreover, it can save the history 
 * [React](https://react.dev/)
 * [Redux toolkit](https://redux-toolkit.js.org/)
 * [Rapid API](https://rapidapi.com/)
+* [Tailwindcss](https://tailwindcss.com/)
